@@ -38,8 +38,6 @@ This project integrates an **ESP8266** and an **STM32** to monitor temperature f
 
 ![circuit Layout](https://github.com/user-attachments/assets/eaae7951-2e06-4451-8b40-dd34829157f3)
 
-
-https://github.com/user-attachments/assets/ec01ce43-dc91-46fe-b1ae-d257e9abb670
-
 ![layout](https://github.com/user-attachments/assets/436d63ee-2a1a-40b9-b634-3a054ab7a18a)
 
+https://github.com/user-attachments/assets/ec01ce43-dc91-46fe-b1ae-d257e9abb670
